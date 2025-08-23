@@ -23,7 +23,6 @@
   "entity.minecraft.villager": "Genoss*in Dorfbewohner",
   "entity.minecraft.villager.nitwit": "Genoss*in auf Bürgergeld",
   "entity.minecraft.villager.none": "Genoss*in auf Bürgergeld",
-  "entity.minecraft.witch": "Feminist*in",
   "sleep.players_sleeping": "%s/%s Genoss*innen schlafen",
   "block.minecraft.player_head.named": "Genoss*in %s's Kopf",
   "item.minecraft.salmon": "Lachsleiche",
@@ -46,9 +45,19 @@
   "item.minecraft.writable_book": "Unfertiges Manifest (Buch)",
   "item.minecraft.written_book": "Manifest (Buch)",
   
+  "jukebox_song.minecraft.13": "Die Internationale",
+  "item.minecraft.music_disc_13.desc": "Die Internationale",
+  "instrument.minecraft.ponder_goat_horn": "Die Grüüünen!",
+  "instrument.minecraft.sing_goat_horn": "Red Sun in the Sky",
+  
   "block.minecraft.crafting_table": "Gemeinschafts Werkbank",
   
   "item.minecraft.milk_bucket": "Vly Milch",
+  
+  "painting.minecraft.changing.author": "Konstantin Yuon",
+  "painting.minecraft.changing.title": "New Planet (1921)",
+  "painting.minecraft.bomb.author": "Dekarldent",
+  "painting.minecraft.bomb.title": "Unsere rote Sonne",
   
   "advancements.story.root.description": "Der Ursprung der Gesellschaft",
   "advancements.story.root.title": "Urkommunismus",
@@ -76,7 +85,7 @@
   "advancements.husbandry.plant_seed.title": "Nahrungsversorgung sichergestellt",
   
   "advancements.adventure.sleep_in_bed.description": "Schlafe in einem Bett",
-  "advancements.adventure.sleep_in_bed.title": "Der Traum der glorreichen Revolution"
+  "advancements.adventure.sleep_in_bed.title": "Der Traum der glorreichen Revolution",
   
   "advancements.story.deflect_arrow.description": "Wehre ein Projektil mit einem Schild ab",
   "advancements.story.deflect_arrow.title": "Eiserne Mauer",

@@ -23,7 +23,6 @@
   "entity.minecraft.villager": "Comrade Villager",
   "entity.minecraft.villager.nitwit": "Comrade on Benefits",
   "entity.minecraft.villager.none": "Comrade on Benefits",
-  "entity.minecraft.witch": "Feminist",
   "sleep.players_sleeping": "%s/%s comrades sleeping",
   "block.minecraft.player_head.named": "Comrade %s's Head",
   "item.minecraft.salmon": "Salmon Corpse",
@@ -46,10 +45,19 @@
   "item.minecraft.writable_book": "Unfinished Manifesto (Book)",
   "item.minecraft.written_book": "Manifesto (Book)",
   
+  "jukebox_song.minecraft.13": "Die Internationale",
+  "item.minecraft.music_disc_13.desc": "Die Internationale",
+  "instrument.minecraft.ponder_goat_horn": "Die Grüüünen!",
+  "instrument.minecraft.sing_goat_horn": "Red Sun in the Sky",
   
   "block.minecraft.crafting_table": "Communal Workbench",
   
   "item.minecraft.milk_bucket": "Vly Milk",
+  
+  "painting.minecraft.changing.author": "Konstantin Yuon",
+  "painting.minecraft.changing.title": "New Planet (1921)",
+  "painting.minecraft.bomb.author": "Dekarldent",
+  "painting.minecraft.bomb.title": "Unsere rote Sonne",
   
   "advancements.story.root.description": "The beginnings of society",
   "advancements.story.root.title": "Primitive Communism",
@@ -77,7 +85,7 @@
   "advancements.husbandry.plant_seed.title": "Nourishment of the masses secured",
   
   "advancements.adventure.sleep_in_bed.description": "Sleep in a Bed to change your respawn point",
-  "advancements.adventure.sleep_in_bed.title": "Dreams of Glorious Revolution"
+  "advancements.adventure.sleep_in_bed.title": "Dreams of Glorious Revolution",
   
   "advancements.story.deflect_arrow.description": "Deflect a projectile with a Shield",
   "advancements.story.deflect_arrow.title": "Iron Curtain",
