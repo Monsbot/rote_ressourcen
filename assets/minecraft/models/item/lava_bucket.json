@@ -1,0 +1,7 @@
+{
+    "parent": "item/milk_bucket",
+	"textures": {
+		"0": "item/vly/lava",
+		"particle": "item/vly/lava"
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/vly_milk",
+	"textures": {
+		"0": "item/vly/water",
+		"particle": "item/vly/water"
+	}
+}
