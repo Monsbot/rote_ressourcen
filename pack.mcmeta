@@ -1,6 +1,7 @@
 {
-	"pack": {
-		"description": "Für Minecraftkommunismus.\nEhre der roten Sonne o7",
-		"pack_format": 64
-	}
+  "pack": {
+    "pack_format": 81,
+	"supported_formats": [15, 84],
+    "description": "\u00A7eLand der aufgehenden roten Sonne \u00A77(community pack)"
+  }
 }
