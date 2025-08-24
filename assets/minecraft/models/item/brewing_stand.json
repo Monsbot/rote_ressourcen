@@ -1,4 +1,4 @@
 {
-  "parent": "minecraft:models/block/brewing_stand.json"
+  "parent": "block/brewing_stand"
 
 }
