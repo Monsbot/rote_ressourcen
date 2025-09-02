@@ -1,0 +1,30 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:has_component",
+		"component": "minecraft:custom_name",
+		"on_true": {
+			"type": "minecraft:select",
+			"model": "minecraft:item/iron_nugget",
+			"property": "minecraft:component",
+			"component": "minecraft:custom_name",
+	  		"cases": [
+					{
+				"when": "lenin",
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/lenin"
+			 			}
+					}
+		  		],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/iron_nugget"
+					}
+				},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/iron_nugget"
+		}
+	}
+}
