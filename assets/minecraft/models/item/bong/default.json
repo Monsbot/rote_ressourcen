@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/bong/base_model",
+  "display": {
+		"thirdperson_righthand": {
+			"rotation": [81.26, 1.96, 1.27],
+			"translation": [0, 1.5, 3],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [81.26, 1.96, 1.27],
+			"translation": [0, 1.5, 3],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 78.5, -180],
+			"translation": [1.75, 4, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 78.5, -180],
+			"translation": [1.75, 4, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

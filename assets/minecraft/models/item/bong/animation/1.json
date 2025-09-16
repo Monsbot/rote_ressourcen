@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bong/base_model",
+  "textures": {
+	"vapor": "item/bong/vapor/1",
+    "layer0": "minecraft:item/bong/animation/1"
+  }
+}

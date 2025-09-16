@@ -1,0 +1,137 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bong/default",
+      "tints": [
+        {
+          "type": "minecraft:potion",
+          "default": -13083194
+        }
+      ]
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/0",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.1
+        },
+		{
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/1",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.2
+        },
+		{
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/2",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.3
+        },
+		{
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/3",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.4
+        },
+		{
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/4",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.5
+        },
+		{
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/5",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.6
+        },
+		{
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/6",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.7
+        },
+		{
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bong/animation/7",
+            "tints": [
+              {
+                "type": "minecraft:potion",
+                "default": -13083194
+              }
+            ]
+          },
+          "threshold": 0.8
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bong/default",
+        "tints": [
+          {
+            "type": "minecraft:potion",
+            "default": -13083194
+          }
+        ]
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.035
+    },
+    "property": "minecraft:using_item"
+  }
+}
