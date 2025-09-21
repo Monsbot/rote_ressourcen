@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/spider_eye",
-		"particle": "item/spider_eye"
+		"0": "item/CreeperMD",
+		"particle": "item/CreeperMD"
 	},
 	"elements": [
 		{
