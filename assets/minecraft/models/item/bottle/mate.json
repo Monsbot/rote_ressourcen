@@ -1,0 +1,6 @@
+{
+    "parent": "item/bottle/bottle",
+	"textures": {
+		"0": "item/bottle/mate"
+	}
+}
