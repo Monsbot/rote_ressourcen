@@ -1,4 +1,12 @@
 
 {
-  "parent": "minecraft:item/bong/default"
+  "parent": "minecraft:item/bong/default",
+  "overrides": [
+	{
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "item/bottle/mate"
+	}
+  ]
 }
