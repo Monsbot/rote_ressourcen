@@ -1,0 +1,71 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/brewing_stand",
+		"stand": "block/brewing_stand"
+	},
+	"elements": [
+		{
+			"name": "ring",
+			"from": [2.62448, 9, 5.47552],
+			"to": [3.62448, 12, 6.47552],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 1, 9], "texture": "#stand"},
+				"east": {"uv": [0, 6, 1, 9], "rotation": 180, "texture": "#stand"},
+				"south": {"uv": [0, 6, 1, 9], "texture": "#stand"},
+				"west": {"uv": [0, 6, 1, 9], "texture": "#stand"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [2.62448, 8, 5.47552],
+			"to": [3.62448, 9, 10.47552],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 9, 1, 10], "texture": "#stand"},
+				"east": {"uv": [0, 9, 5, 10], "rotation": 180, "texture": "#stand"},
+				"south": {"uv": [4, 9, 5, 10], "texture": "#stand"},
+				"west": {"uv": [0, 9, 5, 10], "texture": "#stand"},
+				"up": {"uv": [0, 9, 5, 10], "rotation": 90, "texture": "#stand"},
+				"down": {"uv": [0, 9, 5, 10], "rotation": 270, "texture": "#stand"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [2.62448, 12, 5.47552],
+			"to": [3.62448, 13, 10.47552],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 5, 1, 6], "texture": "#stand"},
+				"east": {"uv": [0, 5, 5, 6], "rotation": 180, "texture": "#stand"},
+				"south": {"uv": [4, 5, 5, 6], "texture": "#stand"},
+				"west": {"uv": [0, 5, 5, 6], "texture": "#stand"},
+				"up": {"uv": [0, 5, 5, 6], "rotation": 90, "texture": "#stand"},
+				"down": {"uv": [0, 5, 5, 6], "rotation": 270, "texture": "#stand"}
+			}
+		},
+		{
+			"from": [3.59, 0, 8],
+			"to": [7.59, 16, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 12, 16], "texture": "#stand"},
+				"south": {"uv": [12, 0, 8, 16], "texture": "#stand"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [2.62448, 9, 9.47552],
+			"to": [3.62448, 12, 10.47552],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 6, 5, 9], "texture": "#stand"},
+				"east": {"uv": [4, 6, 5, 9], "rotation": 180, "texture": "#stand"},
+				"south": {"uv": [4, 6, 5, 9], "texture": "#stand"},
+				"west": {"uv": [4, 6, 5, 9], "texture": "#stand"}
+			}
+		}
+	]
+}

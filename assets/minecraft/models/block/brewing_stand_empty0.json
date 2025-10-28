@@ -1,0 +1,70 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/brewing_stand",
+		"stand": "block/brewing_stand"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [12, 16, 8],
+			"faces": {
+				"north": {"uv": [12, 0, 8, 16], "texture": "#stand"},
+				"south": {"uv": [8, 0, 12, 16], "texture": "#stand"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [11.97552, 12, 5.52448],
+			"to": [12.97552, 13, 10.52448],
+			"rotation": {"angle": 0, "axis": "z", "origin": [0, 0, -0.25]},
+			"faces": {
+				"north": {"uv": [4, 5, 5, 6], "texture": "#stand"},
+				"east": {"uv": [0, 5, 5, 6], "texture": "#stand"},
+				"south": {"uv": [0, 5, 1, 6], "texture": "#stand"},
+				"west": {"uv": [0, 5, 5, 6], "rotation": 180, "texture": "#stand"},
+				"up": {"uv": [0, 5, 5, 6], "rotation": 270, "texture": "#stand"},
+				"down": {"uv": [0, 5, 5, 6], "rotation": 90, "texture": "#stand"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [11.97552, 8, 5.52448],
+			"to": [12.97552, 9, 10.52448],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -0.25]},
+			"faces": {
+				"north": {"uv": [4, 9, 5, 10], "texture": "#stand"},
+				"east": {"uv": [0, 9, 5, 10], "texture": "#stand"},
+				"south": {"uv": [0, 9, 1, 10], "texture": "#stand"},
+				"west": {"uv": [0, 9, 5, 10], "rotation": 180, "texture": "#stand"},
+				"up": {"uv": [0, 9, 5, 10], "rotation": 270, "texture": "#stand"},
+				"down": {"uv": [0, 9, 5, 10], "rotation": 90, "texture": "#stand"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [11.97552, 9, 9.52448],
+			"to": [12.97552, 12, 10.52448],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -0.25]},
+			"faces": {
+				"north": {"uv": [0, 6, 1, 9], "texture": "#stand"},
+				"east": {"uv": [0, 6, 1, 9], "texture": "#stand"},
+				"south": {"uv": [0, 6, 1, 9], "texture": "#stand"},
+				"west": {"uv": [0, 6, 1, 9], "rotation": 180, "texture": "#stand"}
+			}
+		},
+		{
+			"name": "ring",
+			"from": [11.97552, 9, 5.52448],
+			"to": [12.97552, 12, 6.52448],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -0.25]},
+			"faces": {
+				"north": {"uv": [4, 6, 5, 9], "texture": "#stand"},
+				"east": {"uv": [4, 6, 5, 9], "texture": "#stand"},
+				"south": {"uv": [4, 6, 5, 9], "texture": "#stand"},
+				"west": {"uv": [4, 6, 5, 9], "rotation": 180, "texture": "#stand"}
+			}
+		}
+	]
+}
