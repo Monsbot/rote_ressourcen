@@ -7,13 +7,13 @@
   "overrides": [
 	{
 		"predicate": {
-			"custom_model_data": 1
+			"custom_model_data": 7
 		},
 		"model": "item/weed"
 	},
 	{
 		"predicate": {
-			"custom_model_data": 2
+			"custom_model_data": 8
 		},
 		"model": "item/decarboxyliertes_weed"
 	}
