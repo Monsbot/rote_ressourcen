@@ -40,6 +40,8 @@
   "item.minecraft.cooked_rabbit": "Gebratene Kaninchenleiche",
   "item.minecraft.cooked_salmon": "Gebratene Lachsleiche",
   "entity.minecraft.wandering_trader": "Kapitalist:in",
+  "item.minecraft.fern": "Weed",
+  "block.minecraft.fern":"Weed",
   
   "item.minecraft.name_tag": "Parteiausweis",
   "item.minecraft.writable_book": "Unfertiges Manifest (Buch)",

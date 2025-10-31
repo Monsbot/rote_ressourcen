@@ -2,14 +2,14 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/golden_carrot"
+    "layer0": "minecraft:item/bread"
   },
   "overrides": [
 	{
 		"predicate": {
-			"custom_model_data": 1
+			"custom_model_data": 4
 		},
-		"model": "item/Drugs/brownie"
+		"model": "item/Food/raw_vegan_burger_patty"
 	}
   ]
 }

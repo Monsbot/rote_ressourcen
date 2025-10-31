@@ -40,6 +40,8 @@
   "item.minecraft.cooked_rabbit": "Cooked Rabbit Corpse",
   "item.minecraft.cooked_salmon": "Cooked Salmon Corpse",
   "entity.minecraft.wandering_trader": "Capitalist",
+  "item.minecraft.fern": "Weed",
+  "block.minecraft.fern":"Weed",
   
   "item.minecraft.name_tag": "Party ID",
   "item.minecraft.writable_book": "Unfinished Manifesto (Book)",
