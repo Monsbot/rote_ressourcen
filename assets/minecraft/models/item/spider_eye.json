@@ -5,17 +5,12 @@
     "layer0": "minecraft:item/spider_eye"
   },
   "overrides": [
-	{
-		"predicate": {
-			"custom_model_data": 7
-		},
-		"model": "item/weed"
-	},
+
 	{
 		"predicate": {
 			"custom_model_data": 8
 		},
-		"model": "item/decarboxyliertes_weed"
+		"model": "item/Drugs/decarboxyliertes_weed"
 	}
   ]
 }

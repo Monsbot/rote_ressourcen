@@ -1,4 +1,24 @@
 
 {
-  "parent": "minecraft:item/bong/default"
+  "parent": "minecraft:item/bong/default",
+  "overrides": [
+	{
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "item/Drugs/Heroin"
+	},
+	{
+		"predicate": {
+			"custom_model_data": 2
+		},
+		"model": "item/Drugs/Koks"
+	},
+	{
+		"predicate": {
+			"custom_model_data": 3
+		},
+		"model": "item/Drugs/CreeperMDMA"
+	}
+  ]
 }
