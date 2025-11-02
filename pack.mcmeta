@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 81,
-	"supported_formats": [15, 84],
-    "description": "\u00A7eLand der aufgehenden roten Sonne \u00A77(community pack)"
+    "pack_format": 46,
+	"supported_formats": [32, 84],
+    "description": "\u00A7eLand der aufgehenden roten Sonne \u00A77(community pack, v1.00)"
   }
 }
