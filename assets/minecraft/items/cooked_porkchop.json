@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/cooked_porkchop"
+    },
+    "entries": [
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+        "model": "item/vegan_stuff/cooked_seitan"
+        }
+      }
+    ]
+  }
+}

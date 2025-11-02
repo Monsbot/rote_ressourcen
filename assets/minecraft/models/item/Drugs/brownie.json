@@ -2,6 +2,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/brownie"
+    "layer0": "minecraft:item/drugs/brownie"
   }
 }

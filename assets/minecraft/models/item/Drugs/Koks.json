@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/koks",
-		"particle": "item/koks"
+		"0": "item/drugs/koks",
+		"particle": "item/drugs/koks"
 	},
 	"elements": [
 		{

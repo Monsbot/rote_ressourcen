@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/CreeperMD",
-		"particle": "item/CreeperMD"
+		"0": "item/drugs/creeper_mdma",
+		"particle": "item/drugs/creeper_mdma"
 	},
 	"elements": [
 		{

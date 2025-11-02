@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/mushroom_stew"
+    },
+    "entries": [
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+        "model": "item/vegan_stuff/hearty_vegan_stew"
+        }
+      }
+    ]
+  }
+}

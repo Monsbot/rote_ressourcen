@@ -10,7 +10,7 @@
 		"predicate": {
 			"custom_model_data": 8
 		},
-		"model": "item/Drugs/decarboxyliertes_weed"
+		"model": "item/drugs/decarboxyliertes_weed"
 	}
   ]
 }
