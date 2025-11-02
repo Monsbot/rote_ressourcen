@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with the power of cowmunism",
 	"textureSize": [64, 64],
 	"models": [
 		{
@@ -20,7 +20,6 @@
 			"invertAxis": "xy",
 			"translate": [0, -19, -2],
 			"rotate": [-90, 0, 0],
-			"texture": "textures/entity/cow/temperate_cow.png",
 			"textureSize": [64, 64],
 			"boxes": [
 				{"coordinates": [-6, 11, -5, 12, 18, 10], "textureOffset": [18, 4]},
